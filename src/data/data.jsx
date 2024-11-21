@@ -1,7 +1,7 @@
 import React from "react";
 
 function data() {
-  return <div>{5 + 6}</div>;
+  return <div></div>;
 }
 
 export default data;
